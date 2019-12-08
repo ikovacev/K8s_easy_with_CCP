@@ -1,1 +1,0 @@
-# K8s_easy_with_CCP
